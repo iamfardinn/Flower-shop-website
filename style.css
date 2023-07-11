@@ -428,6 +428,46 @@ margin-top: 50px;
     border: none;
     margin-left: 100px;
 }
+.footer-header{
+
+  color: #ffffff;
+   
+    font-size: 35px;
+}
+.flower-span{
+    color: #E55473;
+}
+
+.footer-paragraph{
+    width: 634px;
+    color: rgba(255, 255, 255, 0.6);
+   
+    font-size: 15px;
+
+    font-weight: 400;
+    line-height: 30px;
+    
+  
+  
+
+
+}
+.footmer-main{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-evenly;
+    margin-top: 80px;
+    flex-direction: column;
+    background-color: #111010;
+    width: 1822px;
+height: 400px;
+
+   
+}
+.footer-small{
+    color: rgba(255, 255, 255, 0.6);
+}
 
 
 
