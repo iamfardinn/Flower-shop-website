@@ -370,7 +370,7 @@ margin-top: 50px;
 
     
     display: flex;
-    align-items:start
+    align-items:start;
     justify-content: center;
     text-align: center;
     margin-top: 30px;
@@ -383,15 +383,51 @@ margin-top: 50px;
     
     
   
-    margin-top: 25px;background: rgba(5, 151, 160, 0.15);;
+    margin-top: 25px;
+    background: rgba(5, 151, 160, 0.15);
 }
-.latest-deals-heading{
-    width: 708px;
-    height: 288px;
+
+.latest-deal-heading{
+    font-size: 28px;
     color: #272727;
-
 }
+.latest-deal-paragraph{
 
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+   
+    font-size: 15px;
+
+    font-weight: 400;
+    line-height: 30px;
+    margin: 4px;
+    margin-top: 15px;
+    margin-bottom: 32px;
+    padding-left: 420px;
+}
+.latest-deal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 80px auto;
+    max-width: 1540px;
+    height: 400px;
+    padding-bottom: 100px;
+    background-image: url('./images/Rectangle 9.png');
+   background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+
+
+.input-type{
+    width: 500px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    margin-left: 100px;
+}
 
 
 
