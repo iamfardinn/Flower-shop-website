@@ -414,7 +414,7 @@ margin-top: 50px;
     max-width: 1540px;
     height: 400px;
     padding-bottom: 100px;
-    background-image: url('./images/Rectangle\ 9.png');
+    background-image: url('/images/Rectangle\ 9.png ');
    background-repeat: no-repeat;
     background-position: center;
   }
