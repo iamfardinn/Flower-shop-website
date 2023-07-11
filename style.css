@@ -414,7 +414,7 @@ margin-top: 50px;
     max-width: 1540px;
     height: 400px;
     padding-bottom: 100px;
-    background-image: url('/images/Rectangle\ 9.png ');
+    background-image: url('images/Rectangle\ 9.png');
    background-repeat: no-repeat;
     background-position: center;
   }
@@ -460,8 +460,9 @@ margin-top: 50px;
     margin-top: 80px;
     flex-direction: column;
     background-color: #111010;
-    width: 1822px;
+    width: 1900px;
 height: 400px;
+
 
    
 }
