@@ -301,6 +301,8 @@ margin-top: 50px;
 
 .insta-pics-container{
     display: flex;
+    height: 400px;
+    width: auto;
     
     justify-content: center;
     gap: 15px;
@@ -308,6 +310,89 @@ margin-top: 50px;
     padding-bottom: 40px;
     
 }
+
+.customer-heading{
+    font-size: 28px;
+    color: #272727;
+    margin-top: 120px;
+}
+
+.customer-paragraph{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+   
+    font-size: 16px;
+    margin-bottom: 40px;
+
+    
+    
+  
+    margin-top: 25px;
+}
+.customer-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    ;
+}
+
+.customer-feedback{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    background-color: rgba(229, 84, 115, 0.05);
+   ;
+   padding: 120px;
+}
+
+.customer-pic{
+    height: 390px;
+    width: auto;
+    
+}
+
+.feedbacks{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+.feedback-style{
+    font-size: 16px;
+    font-weight: 500;
+    
+
+    
+    display: flex;
+    align-items:start
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+    width: 404px;
+    color: rgba(20, 19, 19, 0.6);
+   
+    font-size: 16px;
+
+    border-radius: 10px;
+    
+    
+  
+    margin-top: 25px;background: rgba(5, 151, 160, 0.15);;
+}
+.latest-deals-heading{
+    width: 708px;
+    height: 288px;
+    color: #272727;
+
+}
+
+
 
 
 
